@@ -1,0 +1,3 @@
+C:/Users/Nada/CLionProjects/8 relational operator/cmake-build-debug/CMakeFiles/8_relational_operator_.dir
+C:/Users/Nada/CLionProjects/8 relational operator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nada/CLionProjects/8 relational operator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

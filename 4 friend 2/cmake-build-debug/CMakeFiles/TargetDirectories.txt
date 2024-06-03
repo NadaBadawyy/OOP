@@ -1,0 +1,3 @@
+C:/Users/Nada/CLionProjects/1 riv oop/4 friend 2/cmake-build-debug/CMakeFiles/friend_2.dir
+C:/Users/Nada/CLionProjects/1 riv oop/4 friend 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nada/CLionProjects/1 riv oop/4 friend 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

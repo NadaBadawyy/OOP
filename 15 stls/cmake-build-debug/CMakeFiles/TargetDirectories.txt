@@ -1,0 +1,3 @@
+C:/Users/Nada/CLionProjects/15 stls/cmake-build-debug/CMakeFiles/15_stls.dir
+C:/Users/Nada/CLionProjects/15 stls/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nada/CLionProjects/15 stls/cmake-build-debug/CMakeFiles/rebuild_cache.dir

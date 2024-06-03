@@ -1,0 +1,3 @@
+C:/Users/Nada/CLionProjects/1 riv oop/6 operator overloading/cmake-build-debug/CMakeFiles/operator_overloading.dir
+C:/Users/Nada/CLionProjects/1 riv oop/6 operator overloading/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nada/CLionProjects/1 riv oop/6 operator overloading/cmake-build-debug/CMakeFiles/rebuild_cache.dir

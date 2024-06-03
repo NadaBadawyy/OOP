@@ -1,0 +1,3 @@
+C:/Users/Nada/CLionProjects/1 riv oop/18 stl3 algorithms find/cmake-build-debug/CMakeFiles/18_stl3_algorithms_find___.dir
+C:/Users/Nada/CLionProjects/1 riv oop/18 stl3 algorithms find/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nada/CLionProjects/1 riv oop/18 stl3 algorithms find/cmake-build-debug/CMakeFiles/rebuild_cache.dir

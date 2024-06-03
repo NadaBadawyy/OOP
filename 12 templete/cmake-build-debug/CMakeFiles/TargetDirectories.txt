@@ -1,0 +1,3 @@
+C:/Users/Nada/CLionProjects/1 riv oop/12 templete/cmake-build-debug/CMakeFiles/12_templete.dir
+C:/Users/Nada/CLionProjects/1 riv oop/12 templete/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nada/CLionProjects/1 riv oop/12 templete/cmake-build-debug/CMakeFiles/rebuild_cache.dir

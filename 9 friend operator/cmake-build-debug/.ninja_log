@@ -1,0 +1,15 @@
+# ninja log v5
+2	1488	7255037588063136	CMakeFiles/9_friend_operator_.dir/main.cpp.obj	7b588d1d6928c79a
+1493	2245	7255037595618375	9_friend_operator_.exe	1ab07abd0b991583
+5	383	7255037777880060	CMakeFiles/9_friend_operator_.dir/main.cpp.obj	7b588d1d6928c79a
+384	539	7255037779431693	9_friend_operator_.exe	1ab07abd0b991583
+8	647	7255038037456044	CMakeFiles/9_friend_operator_.dir/main.cpp.obj	7b588d1d6928c79a
+648	963	7255038040518524	9_friend_operator_.exe	1ab07abd0b991583
+3	342	7255038162781412	CMakeFiles/9_friend_operator_.dir/main.cpp.obj	7b588d1d6928c79a
+343	464	7255038163966426	9_friend_operator_.exe	1ab07abd0b991583
+3	348	7255038619562856	CMakeFiles/9_friend_operator_.dir/main.cpp.obj	7b588d1d6928c79a
+350	475	7255038620801796	9_friend_operator_.exe	1ab07abd0b991583
+4	355	7255040101116984	CMakeFiles/9_friend_operator_.dir/main.cpp.obj	7b588d1d6928c79a
+356	487	7255040102394946	9_friend_operator_.exe	1ab07abd0b991583
+3	367	7255040444211844	CMakeFiles/9_friend_operator_.dir/main.cpp.obj	7b588d1d6928c79a
+368	485	7255040445353497	9_friend_operator_.exe	1ab07abd0b991583

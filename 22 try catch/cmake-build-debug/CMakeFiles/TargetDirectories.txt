@@ -1,0 +1,3 @@
+C:/Users/Nada/CLionProjects/22 try catch/cmake-build-debug/CMakeFiles/21_try_catch.dir
+C:/Users/Nada/CLionProjects/22 try catch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nada/CLionProjects/22 try catch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

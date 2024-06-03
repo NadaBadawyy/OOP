@@ -1,0 +1,27 @@
+# ninja log v5
+1	338	7254657047006978	CMakeFiles/Unary_operator_oveloading_.dir/main.cpp.obj	d5b8d967717d27fb
+340	448	7254657048072400	Unary_operator_oveloading_.exe	d1965bfbcb6eae17
+31	840	7254672955679763	CMakeFiles/Unary_operator_oveloading_.dir/main.cpp.obj	d5b8d967717d27fb
+841	1050	7254672957721383	Unary_operator_oveloading_.exe	d1965bfbcb6eae17
+3	514	7254673704809405	CMakeFiles/Unary_operator_oveloading_.dir/main.cpp.obj	d5b8d967717d27fb
+515	647	7254673706106751	Unary_operator_oveloading_.exe	d1965bfbcb6eae17
+2	392	7254676920953126	CMakeFiles/Unary_operator_oveloading_.dir/main.cpp.obj	d5b8d967717d27fb
+393	546	7254676922453018	Unary_operator_oveloading_.exe	d1965bfbcb6eae17
+2	300	7254677486639785	CMakeFiles/Unary_operator_oveloading_.dir/main.cpp.obj	d5b8d967717d27fb
+300	418	7254677487783834	Unary_operator_oveloading_.exe	d1965bfbcb6eae17
+4	1239	7254686237154800	CMakeFiles/Unary_operator_oveloading_.dir/main.cpp.obj	d5b8d967717d27fb
+1240	1559	7254686240254969	Unary_operator_oveloading_.exe	d1965bfbcb6eae17
+4	385	7254687489100095	CMakeFiles/Unary_operator_oveloading_.dir/main.cpp.obj	d5b8d967717d27fb
+385	514	7254687490363618	Unary_operator_oveloading_.exe	d1965bfbcb6eae17
+3	362	7254689473336017	CMakeFiles/Unary_operator_oveloading_.dir/main.cpp.obj	d5b8d967717d27fb
+363	511	7254689474803986	Unary_operator_oveloading_.exe	d1965bfbcb6eae17
+3	466	7254691057080909	CMakeFiles/Unary_operator_oveloading_.dir/main.cpp.obj	d5b8d967717d27fb
+467	640	7254691058770007	Unary_operator_oveloading_.exe	d1965bfbcb6eae17
+3	337	7254691505744516	CMakeFiles/Unary_operator_oveloading_.dir/main.cpp.obj	d5b8d967717d27fb
+338	481	7254691507131371	Unary_operator_oveloading_.exe	d1965bfbcb6eae17
+2	335	7254691670741279	CMakeFiles/Unary_operator_oveloading_.dir/main.cpp.obj	d5b8d967717d27fb
+336	465	7254691671976913	Unary_operator_oveloading_.exe	d1965bfbcb6eae17
+3	332	7254691726063599	CMakeFiles/Unary_operator_oveloading_.dir/main.cpp.obj	d5b8d967717d27fb
+333	469	7254691727367555	Unary_operator_oveloading_.exe	d1965bfbcb6eae17
+2	449	7254693163105747	CMakeFiles/Unary_operator_oveloading_.dir/main.cpp.obj	d5b8d967717d27fb
+450	596	7254693164496169	Unary_operator_oveloading_.exe	d1965bfbcb6eae17

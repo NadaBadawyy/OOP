@@ -1,0 +1,9 @@
+# ninja log v5
+3	330	7255533845750509	CMakeFiles/13_template_specialization.dir/main.cpp.obj	a0e44946f1e7d066
+331	438	7255533846795878	13_template_specialization.exe	6b94f6d9a99a6869
+3	671	7263621593864460	CMakeFiles/13_template_specialization.dir/main.cpp.obj	89284b9bab09f839
+673	1342	7263621600500676	13_template_specialization.exe	6b94f6d9a99a6869
+4	404	7263621915791697	CMakeFiles/13_template_specialization.dir/main.cpp.obj	89284b9bab09f839
+406	569	7263621917394345	13_template_specialization.exe	6b94f6d9a99a6869
+4	1789	7264417401638573	CMakeFiles/13_template_specialization.dir/main.cpp.obj	89284b9bab09f839
+1791	2229	7264417405973459	13_template_specialization.exe	6b94f6d9a99a6869

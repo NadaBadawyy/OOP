@@ -1,0 +1,3 @@
+C:/Users/Nada/CLionProjects/19 ramly slides/cmake-build-debug/CMakeFiles/19_ramly_slides.dir
+C:/Users/Nada/CLionProjects/19 ramly slides/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nada/CLionProjects/19 ramly slides/cmake-build-debug/CMakeFiles/rebuild_cache.dir
